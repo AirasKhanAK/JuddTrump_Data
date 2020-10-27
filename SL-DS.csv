@@ -1,0 +1,654 @@
+Date,Tournament,Category,Round,"Result (Won = 1, Lost = 0)"
+6/5/2019,World Championships,WC,Final,1
+4/5/2019,World Championships,WC,Semi Final,1
+1/5/2019,World Championships,WC,Quarter Final,1
+29/04/2019,World Championships,WC,Last 16,1
+24/04/2019,World Championships,WC,Last 32,1
+2/4/2019,China Open,R,Last 64,0
+21/03/2019,Tour Championship,R,Semi Final,0
+20/03/2019,Tour Championship,R,Quarter Final,1
+8/3/2019,Players Championship,R,Semi Final,0
+6/3/2019,Players Championship,R,Quarter Final,1
+5/3/2019,Players Championship,R,Last 16,1
+19/02/2019,China Open,R,Last 128,1
+13/02/2019,Welsh Open,R,Last 64,0
+11/2/2019,Welsh Open,R,Last 128,1
+10/2/2019,World Grand Prix,R,Final,1
+9/2/2019,World Grand Prix,R,Semi Final,1
+8/2/2019,World Grand Prix,R,Quarter Final,1
+6/2/2019,World Grand Prix,R,Last 16,1
+5/2/2019,World Grand Prix,R,Last 32,1
+1/2/2019,German Masters,R,Quarter Final,0
+31/01/2019,German Masters,R,Last 16,1
+30/01/2019,German Masters,R,Last 32,1
+21/12/2018,German Masters,R,Last 64,1
+18/12/2018,German Masters,R,Last 128,1
+15/12/2018,Scottish Open,R,Semi Final,0
+14/12/2018,Scottish Open,R,Quarter Final,1
+13/12/2018,Scottish Open,R,Last 16,1
+13/12/2018,Scottish Open,R,Last 32,1
+12/12/2018,Scottish Open,R,Last 64,1
+11/12/2018,Scottish Open,R,Last 128,1
+6/12/2018,UK Championship,UK,Last 16,0
+4/12/2018,UK Championship,UK,Last 32,1
+2/12/2018,UK Championship,UK,Last 64,1
+27/11/2018,UK Championship,UK,Last 128,1
+18/11/2018,Northern Ireland Open,R,Final,1
+17/11/2018,Northern Ireland Open,R,Semi Final,1
+16/11/2018,Northern Ireland Open,R,Quarter Final,1
+15/11/2018,Northern Ireland Open,R,Last 16,1
+15/11/2018,Northern Ireland Open,R,Last 32,1
+14/11/2018,Northern Ireland Open,R,Last 64,1
+13/11/2018,Northern Ireland Open,R,Last 128,1
+1/11/2018,International Championship,R,Quarter Final,0
+31/10/2018,International Championship,R,Last 16,1
+30/10/2018,International Championship,R,Last 32,1
+29/10/2018,International Championship,R,Last 64,1
+18/10/2018,English Open,R,Last 16,0
+18/10/2018,English Open,R,Last 32,1
+17/10/2018,English Open,R,Last 64,1
+16/10/2018,English Open,R,Last 128,1
+12/10/2018,International Championship,R,Last 128,1
+3/10/2018,European Masters,R,Last 32,0
+2/10/2018,European Masters,R,Last 64,1
+1/10/2018,European Masters,R,Last 128,1
+28/09/2018,China Championship,R,Quarter Final,0
+27/09/2018,China Championship,R,Last 16,1
+26/09/2018,China Championship,R,Last 32,1
+25/09/2018,China Championship,R,Last 64,1
+22/08/2018,China Championship,R,Last 128,1
+8/8/2018,World Open,R,Last 32,0
+7/8/2018,World Open,R,Last 64,1
+8/7/2018,World Open,R,Last 128,1
+2/5/2018,World Championships,WC,Quarter Final,0
+30/04/2018,World Championships,WC,Last 16,1
+26/04/2018,World Championships,WC,Last 32,1
+23/03/2018,Players Championship,R,Semi Final,0
+22/03/2018,Players Championship,R,Quarter Final,1
+21/03/2018,Players Championship,R,Last 16,1
+28/02/2018,Welsh Open,R,Last 64,0
+26/02/2018,Welsh Open,R,Last 128,1
+20/02/2018,World Grand Prix,R,Last 32,0
+3/2/2018,German Masters,R,Semi Final,0
+2/2/2018,German Masters,R,Quarter Final,1
+1/2/2018,German Masters,R,Last 16,1
+31/01/2018,German Masters,R,Last 32,1
+30/01/2018,China Open,R,Last 128,0
+22/12/2017,German Masters,R,Last 64,1
+21/12/2017,German Masters,R,Last 128,1
+16/12/2017,Scottish Open,R,Semi Final,0
+15/12/2017,Scottish Open,R,Quarter Final,1
+14/12/2017,Scottish Open,R,Last 16,1
+14/12/2017,Scottish Open,R,Last 32,1
+13/12/2017,Scottish Open,R,Last 64,1
+11/12/2017,Scottish Open,R,Last 128,1
+4/12/2017,UK Championship,UK,Last 32,0
+2/12/2017,UK Championship,UK,Last 64,1
+29/11/2017,UK Championship,UK,Last 128,1
+21/11/2017,Northern Ireland Open,R,Last 128,0
+18/11/2017,Shanghai Masters,R,Final,0
+17/11/2017,Shanghai Masters,R,Semi Final,1
+16/11/2017,Shanghai Masters,R,Quarter Final,1
+16/11/2017,Shanghai Masters,R,Last 16,1
+15/11/2017,Shanghai Masters,R,Last 32,1
+14/11/2017,Shanghai Masters,R,Last 64,1
+2/11/2017,International Championship,R,Quarter Final,0
+1/11/2017,International Championship,R,Last 16,1
+31/10/2017,International Championship,R,Last 32,1
+29/10/2017,International Championship,R,Last 64,1
+19/10/2017,English Open,R,Last 16,0
+19/10/2017,English Open,R,Last 32,1
+18/10/2017,English Open,R,Last 64,1
+16/10/2017,English Open,R,Last 128,1
+13/10/2017,Shanghai Masters,R,Last 128,1
+8/10/2017,European Masters,R,Final,1
+7/10/2017,European Masters,R,Semi Final,1
+6/10/2017,European Masters,R,Quarter Final,1
+5/10/2017,European Masters,R,Last 16,1
+4/10/2017,European Masters,R,Last 32,1
+3/10/2017,European Masters,R,Last 64,1
+2/10/2017,European Masters,R,Last 128,1
+29/09/2017,International Championship,R,Last 128,1
+18/08/2017,China Championship,R,Last 32,0
+17/08/2017,China Championship,R,Last 64,1
+7/8/2017,World Open,R,Last 128,0
+5/6/2017,China Championship,R,Last 128,1
+19/04/2017,World Championships,WC,Last 32,0
+31/03/2017,China Open,R,Quarter Final,0
+30/03/2017,China Open,R,Last 16,1
+29/03/2017,China Open,R,Last 32,1
+28/03/2017,China Open,R,Last 64,1
+27/03/2017,China Open,R,Last 128,1
+12/3/2017,Players Championship,PTF,Final,1
+10/3/2017,Players Championship,PTF,Semi Final,1
+8/3/2017,Players Championship,PTF,Quarter Final,1
+7/3/2017,Players Championship,PTF,Last 16,1
+5/3/2017,Gibraltar Open,R,Final,0
+5/3/2017,Gibraltar Open,R,Semi Final,1
+5/3/2017,Gibraltar Open,R,Quarter Final,1
+5/3/2017,Gibraltar Open,R,Last 16,1
+3/3/2017,Gibraltar Open,R,Last 32,1
+3/3/2017,Gibraltar Open,R,Last 64,1
+3/3/2017,Gibraltar Open,R,Last 128,1
+19/02/2017,Welsh Open,R,Final,0
+18/02/2017,Welsh Open,R,Semi Final,1
+17/02/2017,Welsh Open,R,Quarter Final,1
+16/02/2017,Welsh Open,R,Last 16,1
+16/02/2017,Welsh Open,R,Last 32,1
+15/02/2017,Welsh Open,R,Last 64,1
+14/02/2017,Welsh Open,R,Last 128,1
+9/2/2017,World Grand Prix,R,Last 16,0
+6/2/2017,World Grand Prix,R,Last 32,1
+17/12/2016,Scottish Open,R,Semi Final,0
+16/12/2016,Scottish Open,R,Quarter Final,1
+15/12/2016,Scottish Open,R,Last 16,1
+15/12/2016,Scottish Open,R,Last 32,1
+14/12/2016,Scottish Open,R,Last 64,1
+12/12/2016,Scottish Open,R,Last 128,1
+9/12/2016,German Masters,R,Last 64,0
+8/12/2016,German Masters,R,Last 128,1
+27/11/2016,UK Championship,UK,Last 64,0
+22/11/2016,UK Championship,UK,Last 128,1
+14/11/2016,Northern Ireland Open,R,Last 128,0
+28/10/2016,International Championship,UK,Semi Final,0
+27/10/2016,International Championship,UK,Quarter Final,1
+26/10/2016,International Championship,UK,Last 16,1
+25/10/2016,International Championship,UK,Last 32,1
+24/10/2016,International Championship,UK,Last 64,1
+16/10/2016,English Open,R,Final,0
+15/10/2016,English Open,R,Semi Final,1
+14/10/2016,English Open,R,Quarter Final,1
+13/10/2016,English Open,R,Last 16,1
+13/10/2016,English Open,R,Last 32,1
+12/10/2016,English Open,R,Last 64,1
+11/10/2016,English Open,R,Last 128,1
+9/10/2016,European Masters,R,Final,1
+8/10/2016,European Masters,R,Semi Final,1
+7/10/2016,European Masters,R,Quarter Final,1
+6/10/2016,European Masters,R,Last 16,1
+4/10/2016,European Masters,R,Last 32,1
+1/10/2016,International Championship,UK,Last 128,1
+28/09/2016,European Masters,R,Last 64,1
+27/09/2016,European Masters,R,Last 128,1
+22/09/2016,Shanghai Masters,R,Last 16,0
+21/09/2016,Shanghai Masters,R,Last 32,1
+27/07/2016,World Open,R,Last 32,0
+26/07/2016,World Open,R,Last 64,1
+24/06/2016,Riga Masters,R,Quarter Final,0
+23/06/2016,Riga Masters,R,Last 16,1
+23/06/2016,Riga Masters,R,Last 32,1
+22/06/2016,Riga Masters,R,Last 64,1
+4/6/2016,Riga Masters,R,Last 128,1
+1/6/2016,World Open,R,Last 128,1
+25/04/2016,World Championships,WC,Last 16,0
+21/04/2016,World Championships,WC,Last 32,1
+3/4/2016,China Open,RN,Final,1
+2/4/2016,China Open,RN,Semi Final,1
+1/4/2016,China Open,RN,Quarter Final,1
+31/03/2016,China Open,RN,Last 16,1
+30/03/2016,China Open,RN,Last 32,1
+29/03/2016,China Open,RN,Last 64,1
+24/03/2016,Players Tour Championship Finals,PTF,Last 16,0
+22/03/2016,Players Tour Championship Finals,PTF,Last 32,1
+10/3/2016,World Grand Prix,R,Last 16,0
+9/3/2016,World Grand Prix,R,Last 32,1
+27/02/2016,Gdynia Open,PTC,Last 128,0
+18/02/2016,Welsh Open,R,Last 16,0
+17/02/2016,Welsh Open,R,Last 32,1
+16/02/2016,Welsh Open,R,Last 64,1
+15/02/2016,Welsh Open,R,Last 128,1
+11/2/2016,China Open,RN,Last 128,1
+5/2/2016,German Masters,R,Quarter Final,0
+4/2/2016,German Masters,R,Last 16,1
+3/2/2016,German Masters,R,Last 32,1
+20/12/2015,German Masters,R,Last 64,1
+17/12/2015,German Masters,R,Last 128,1
+12/12/2015,Gibraltar Open,PTC,Last 64,0
+12/12/2015,Gibraltar Open,PTC,Last 128,1
+1/12/2015,UK Championship,UK,Last 32,0
+29/11/2015,UK Championship,UK,Last 64,1
+25/11/2015,UK Championship,UK,Last 128,1
+8/11/2015,Bulgarian Open,PTC,Quarter Final,0
+8/11/2015,Bulgarian Open,PTC,Last 16,1
+6/11/2015,Bulgarian Open,PTC,Last 32,1
+6/11/2015,Bulgarian Open,PTC,Last 64,1
+6/11/2015,Bulgarian Open,PTC,Last 128,1
+9/10/2015,Ruhr Open,PTC,Last 128,0
+3/10/2015,International Championship,UK,Last 128,0
+20/09/2015,Shanghai Masters,RN,Final,0
+19/09/2015,Shanghai Masters,RN,Semi Final,1
+18/09/2015,Shanghai Masters,RN,Quarter Final,1
+17/09/2015,Shanghai Masters,RN,Last 16,1
+15/09/2015,Shanghai Masters,RN,Last 32,1
+30/08/2015,Paul Hunter Classic,PTC,Quarter Final,0
+30/08/2015,Paul Hunter Classic,PTC,Last 16,1
+29/08/2015,Paul Hunter Classic,PTC,Last 32,1
+29/08/2015,Paul Hunter Classic,PTC,Last 64,1
+29/08/2015,Paul Hunter Classic,PTC,Last 128,1
+2/8/2015,Riga Open,PTC,Last 16,0
+31/07/2015,Riga Open,PTC,Last 32,1
+31/07/2015,Riga Open,PTC,Last 64,1
+31/07/2015,Riga Open,PTC,Last 128,1
+3/7/2015,Australian Open,R,Quarter Final,0
+1/7/2015,Australian Open,R,Last 16,1
+29/06/2015,Australian Open,R,Last 32,1
+2/5/2015,World Championships,WC,Semi Final,0
+29/04/2015,World Championships,WC,Quarter Final,1
+27/04/2015,World Championships,WC,Last 16,1
+23/04/2015,World Championships,WC,Last 32,1
+2/4/2015,China Open,RN,Last 16,0
+1/4/2015,China Open,RN,Last 32,1
+31/03/2015,China Open,RN,Last 64,1
+28/03/2015,Players Tour Championship Finals,PTF,Semi Final,0
+27/03/2015,Players Tour Championship Finals,PTF,Quarter Final,1
+26/03/2015,Players Tour Championship Finals,PTF,Last 16,1
+25/03/2015,Players Tour Championship Finals,PTF,Last 32,1
+13/03/2015,Indian Open,R,Last 16,0
+12/3/2015,Indian Open,R,Last 32,1
+10/3/2015,Indian Open,R,Last 64,1
+1/3/2015,Gdynia Open,PTC,Quarter Final,0
+1/3/2015,Gdynia Open,PTC,Last 16,1
+28/02/2015,Gdynia Open,PTC,Last 32,1
+28/02/2015,Gdynia Open,PTC,Last 64,1
+28/02/2015,Gdynia Open,PTC,Last 128,1
+19/02/2015,Welsh Open,R,Last 16,0
+18/02/2015,Welsh Open,R,Last 32,1
+16/02/2015,Welsh Open,R,Last 64,1
+16/02/2015,Welsh Open,R,Last 128,1
+14/02/2015,China Open,RN,Last 128,1
+12/2/2015,Indian Open,R,Last 128,1
+6/2/2015,German Masters,R,Quarter Final,0
+5/2/2015,German Masters,R,Last 16,1
+4/2/2015,German Masters,R,Last 32,1
+19/12/2014,German Masters,R,Last 64,1
+17/12/2014,German Masters,R,Last 128,1
+14/12/2014,Lisbon Open,PTC,Quarter Final,0
+14/12/2014,Lisbon Open,PTC,Last 16,1
+12/12/2014,Lisbon Open,PTC,Last 32,1
+12/12/2014,Lisbon Open,PTC,Last 64,1
+12/12/2014,Lisbon Open,PTC,Last 128,1
+7/12/2014,UK Championship,UK,Final,0
+6/12/2014,UK Championship,UK,Semi Final,1
+5/12/2014,UK Championship,UK,Quarter Final,1
+4/12/2014,UK Championship,UK,Last 16,1
+1/12/2014,UK Championship,UK,Last 32,1
+29/11/2014,UK Championship,UK,Last 64,1
+25/11/2014,UK Championship,UK,Last 128,1
+23/11/2014,Ruhr Open,PTC,Semi Final,0
+23/11/2014,Ruhr Open,PTC,Quarter Final,1
+23/11/2014,Ruhr Open,PTC,Last 16,1
+22/11/2014,Ruhr Open,PTC,Last 32,1
+22/11/2014,Ruhr Open,PTC,Last 64,1
+22/11/2014,Ruhr Open,PTC,Last 128,1
+28/10/2014,International Championship,UK,Last 32,0
+27/10/2014,International Championship,UK,Last 64,1
+5/10/2014,Bulgarian Open,PTC,Last 16,0
+4/10/2014,Bulgarian Open,PTC,Last 32,1
+4/10/2014,Bulgarian Open,PTC,Last 64,1
+4/10/2014,Bulgarian Open,PTC,Last 128,1
+24/09/2014,International Championship,UK,Last 128,1
+9/9/2014,Shanghai Masters,RN,Last 32,0
+24/08/2014,Paul Hunter Classic,PTC,Final,0
+24/08/2014,Paul Hunter Classic,PTC,Semi Final,1
+24/08/2014,Paul Hunter Classic,PTC,Quarter Final,1
+24/08/2014,Paul Hunter Classic,PTC,Last 16,1
+22/08/2014,Paul Hunter Classic,PTC,Last 32,1
+22/08/2014,Paul Hunter Classic,PTC,Last 64,1
+22/08/2014,Paul Hunter Classic,PTC,Last 128,1
+10/8/2014,Riga Open,PTC,Quarter Final,0
+10/8/2014,Riga Open,PTC,Last 16,1
+8/8/2014,Riga Open,PTC,Last 32,1
+8/8/2014,Riga Open,PTC,Last 64,1
+8/8/2014,Riga Open,PTC,Last 128,1
+6/7/2014,Australian Open,R,Final,1
+5/7/2014,Australian Open,R,Semi Final,1
+4/7/2014,Australian Open,R,Quarter Final,1
+3/7/2014,Australian Open,R,Last 16,1
+2/7/2014,Australian Open,R,Last 32,1
+26/06/2014,Wuxi Classic,RN,Last 16,0
+25/06/2014,Wuxi Classic,RN,Last 32,1
+23/06/2014,Wuxi Classic,RN,Last 64,1
+26/05/2014,Wuxi Classic,RN,Last 128,1
+30/04/2014,World Championships,WC,Quarter Final,0
+28/04/2014,World Championships,WC,Last 16,1
+23/04/2014,World Championships,WC,Last 32,1
+2/4/2014,China Open,RN,Last 32,0
+1/4/2014,China Open,RN,Last 64,1
+29/03/2014,Players Tour Championship Finals,PTF,Semi Final,0
+28/03/2014,Players Tour Championship Finals,PTF,Quarter Final,1
+27/03/2014,Players Tour Championship Finals,PTF,Last 16,1
+25/03/2014,Players Tour Championship Finals,PTF,Last 32,1
+13/03/2014,World Open,RN,Last 16,0
+12/3/2014,World Open,RN,Last 32,1
+11/3/2014,World Open,RN,Last 64,1
+27/02/2014,Welsh Open,R,Last 16,0
+26/02/2014,Welsh Open,R,Last 32,1
+24/02/2014,Welsh Open,R,Last 64,1
+22/02/2014,Welsh Open,R,Last 128,1
+17/02/2014,China Open,RN,Last 128,1
+9/2/2014,Gdynia Open,PTC,Quarter Final,0
+9/2/2014,Gdynia Open,PTC,Last 16,1
+7/2/2014,Gdynia Open,PTC,Last 32,1
+7/2/2014,Gdynia Open,PTC,Last 64,1
+7/2/2014,Gdynia Open,PTC,Last 128,1
+2/2/2014,German Masters,R,Final,0
+1/2/2014,German Masters,R,Semi Final,1
+31/01/2014,German Masters,R,Quarter Final,1
+31/01/2014,German Masters,R,Last 16,1
+30/01/2014,German Masters,R,Last 32,1
+30/01/2014,German Masters,R,Last 64,1
+13/12/2013,World Open,RN,Last 128,1
+11/12/2013,German Masters,R,Last 128,1
+4/12/2013,UK Championship,UK,Last 16,0
+2/12/2013,UK Championship,UK,Last 32,1
+1/12/2013,UK Championship,UK,Last 64,1
+28/11/2013,UK Championship,UK,Last 128,1
+15/11/2013,Antwerp Open,PTC,Last 32,0
+15/11/2013,Antwerp Open,PTC,Last 64,1
+15/11/2013,Antwerp Open,PTC,Last 128,1
+10/11/2013,Kay Suzanne Memorial Cup,PTC,Final,0
+10/11/2013,Kay Suzanne Memorial Cup,PTC,Semi Final,1
+10/11/2013,Kay Suzanne Memorial Cup,PTC,Quarter Final,1
+10/11/2013,Kay Suzanne Memorial Cup,PTC,Last 16,1
+8/11/2013,Kay Suzanne Memorial Cup,PTC,Last 32,1
+8/11/2013,Kay Suzanne Memorial Cup,PTC,Last 64,1
+8/11/2013,Kay Suzanne Memorial Cup,PTC,Last 128,1
+28/10/2013,International Championship,UK,Last 64,0
+6/10/2013,Ruhr Open,PTC,Quarter Final,0
+6/10/2013,Ruhr Open,PTC,Last 16,1
+5/10/2013,Ruhr Open,PTC,Last 32,1
+5/10/2013,Ruhr Open,PTC,Last 64,1
+5/10/2013,Ruhr Open,PTC,Last 128,1
+2/10/2013,International Championship,UK,Last 128,1
+17/09/2013,Shanghai Masters,RN,Last 32,0
+23/08/2013,Paul Hunter Classic,PTC,Last 32,0
+23/08/2013,Paul Hunter Classic,PTC,Last 64,1
+23/08/2013,Paul Hunter Classic,PTC,Last 128,1
+15/08/2013,Doncaster European Tour,PTC,Last 128,0
+12/8/2013,Indian Open,R,Last 128,0
+20/07/2013,Rotterdam Open,PTC,Last 32,0
+20/07/2013,Rotterdam Open,PTC,Last 64,1
+20/07/2013,Rotterdam Open,PTC,Last 128,1
+18/06/2013,Wuxi Classic,RN,Last 64,0
+8/6/2013,Bulgarian Open,PTC,Last 64,0
+8/6/2013,Bulgarian Open,PTC,Last 128,1
+28/05/2013,Wuxi Classic,RN,Last 128,1
+4/5/2013,World Championships,WC,Semi Final,0
+1/5/2013,World Championships,WC,Quarter Final,1
+27/04/2013,World Championships,WC,Last 16,1
+24/04/2013,World Championships,WC,Last 32,1
+26/03/2013,China Open,RN,Last 32,0
+13/03/2013,Players Tour Championship Finals,PTF,Last 32,0
+1/3/2013,World Open,RN,Quarter Final,0
+28/02/2013,World Open,RN,Last 16,1
+26/02/2013,World Open,RN,Last 32,1
+16/02/2013,Welsh Open,R,Semi Final,0
+15/02/2013,Welsh Open,R,Quarter Final,1
+14/02/2013,Welsh Open,R,Last 16,1
+13/02/2013,Welsh Open,R,Last 32,1
+11/2/2013,Welsh Open,R,Last 64,1
+31/01/2013,German Masters,R,Last 32,0
+30/01/2013,German Masters,R,Last 64,1
+2/12/2012,UK Championship,UK,Last 32,0
+18/11/2012,Bulgarian Open,PTC,Final,1
+18/11/2012,Bulgarian Open,PTC,Semi Final,1
+18/11/2012,Bulgarian Open,PTC,Quarter Final,1
+18/11/2012,Bulgarian Open,PTC,Last 16,1
+18/11/2012,Bulgarian Open,PTC,Last 32,1
+18/11/2012,Bulgarian Open,PTC,Last 64,1
+18/11/2012,Bulgarian Open,PTC,Last 128,1
+14/11/2012,England Players Tour Championship 4,PTC,Final,0
+14/11/2012,England Players Tour Championship 4,PTC,Semi Final,1
+14/11/2012,England Players Tour Championship 4,PTC,Quarter Final,1
+14/11/2012,England Players Tour Championship 4,PTC,Last 16,1
+14/11/2012,England Players Tour Championship 4,PTC,Last 32,1
+14/11/2012,England Players Tour Championship 4,PTC,Last 64,1
+14/11/2012,England Players Tour Championship 4,PTC,Last 128,1
+4/11/2012,International Championship,UK,Final,1
+2/11/2012,International Championship,UK,Semi Final,1
+1/11/2012,International Championship,UK,Quarter Final,1
+31/10/2012,International Championship,UK,Last 16,1
+30/10/2012,International Championship,UK,Last 32,1
+21/10/2012,Antwerp Open,PTC,Last 64,0
+21/10/2012,Antwerp Open,PTC,Last 128,1
+7/10/2012,Gdynia Open,PTC,Last 64,0
+7/10/2012,Gdynia Open,PTC,Last 128,1
+23/09/2012,Shanghai Masters,RN,Final,0
+22/09/2012,Shanghai Masters,RN,Semi Final,1
+21/09/2012,Shanghai Masters,RN,Quarter Final,1
+20/09/2012,Shanghai Masters,RN,Last 16,1
+19/09/2012,Shanghai Masters,RN,Last 32,1
+9/9/2012,England Players Tour Championship 3,PTC,Last 16,0
+9/9/2012,England Players Tour Championship 3,PTC,Last 32,1
+9/9/2012,England Players Tour Championship 3,PTC,Last 64,1
+9/9/2012,England Players Tour Championship 3,PTC,Last 128,1
+26/08/2012,Paul Hunter Classic,PTC,Last 32,0
+26/08/2012,Paul Hunter Classic,PTC,Last 64,1
+26/08/2012,Paul Hunter Classic,PTC,Last 128,1
+12/8/2012,England Players Tour Championship 2,PTC,Last 16,0
+12/8/2012,England Players Tour Championship 2,PTC,Last 32,1
+12/8/2012,England Players Tour Championship 2,PTC,Last 64,1
+12/8/2012,England Players Tour Championship 2,PTC,Last 128,1
+22/07/2012,England Players Tour Championship 1,PTC,Quarter Final,0
+22/07/2012,England Players Tour Championship 1,PTC,Last 16,1
+22/07/2012,England Players Tour Championship 1,PTC,Last 32,1
+22/07/2012,England Players Tour Championship 1,PTC,Last 64,1
+22/07/2012,England Players Tour Championship 1,PTC,Last 128,1
+28/06/2012,Wuxi Classic,RN,Last 16,0
+27/06/2012,Wuxi Classic,RN,Last 32,1
+30/04/2012,World Championships,WC,Last 16,0
+25/04/2012,World Championships,WC,Last 32,1
+30/03/2012,China Open,RN,Quarter Final,0
+29/03/2012,China Open,RN,Last 16,1
+27/03/2012,China Open,RN,Last 32,1
+16/03/2012,Players Tour Championship Finals,PTF,Last 16,0
+1/3/2012,World Open,RN,Last 16,0
+28/02/2012,World Open,RN,Last 32,1
+17/02/2012,Welsh Open,R,Quarter Final,0
+16/02/2012,Welsh Open,R,Last 16,1
+13/02/2012,Welsh Open,R,Last 32,1
+3/2/2012,German Masters,R,Quarter Final,0
+2/2/2012,German Masters,R,Last 16,1
+2/2/2012,German Masters,R,Last 32,1
+18/12/2011,Euro Players Tour Championship 5,PTC,Quarter Final,0
+18/12/2011,Euro Players Tour Championship 5,PTC,Last 16,1
+18/12/2011,Euro Players Tour Championship 5,PTC,Last 32,1
+18/12/2011,Euro Players Tour Championship 5,PTC,Last 64,1
+18/12/2011,Euro Players Tour Championship 5,PTC,Last 128,1
+11/12/2011,UK Championship,UK,Final,1
+9/12/2011,UK Championship,UK,Semi Final,1
+8/12/2011,UK Championship,UK,Quarter Final,1
+6/12/2011,UK Championship,UK,Last 16,1
+5/12/2011,UK Championship,UK,Last 32,1
+30/11/2011,England Players Tour Championship 6,PTC,Last 128,0
+13/11/2011,Euro Players Tour Championship 4,PTC,Final,1
+13/11/2011,Euro Players Tour Championship 4,PTC,Semi Final,1
+13/11/2011,Euro Players Tour Championship 4,PTC,Quarter Final,1
+13/11/2011,Euro Players Tour Championship 4,PTC,Last 16,1
+13/11/2011,Euro Players Tour Championship 4,PTC,Last 32,1
+13/11/2011,Euro Players Tour Championship 4,PTC,Last 64,1
+13/11/2011,Euro Players Tour Championship 4,PTC,Last 128,1
+23/10/2011,Euro Players Tour Championship 3,PTC,Final,0
+23/10/2011,Euro Players Tour Championship 3,PTC,Semi Final,1
+23/10/2011,Euro Players Tour Championship 3,PTC,Quarter Final,1
+23/10/2011,Euro Players Tour Championship 3,PTC,Last 16,1
+23/10/2011,Euro Players Tour Championship 3,PTC,Last 32,1
+23/10/2011,Euro Players Tour Championship 3,PTC,Last 64,1
+23/10/2011,Euro Players Tour Championship 3,PTC,Last 128,1
+9/10/2011,England Players Tour Championship 5,PTC,Last 32,0
+9/10/2011,England Players Tour Championship 5,PTC,Last 64,1
+9/10/2011,England Players Tour Championship 5,PTC,Last 128,1
+2/10/2011,Euro Players Tour Championship 2,PTC,Quarter Final,0
+2/10/2011,Euro Players Tour Championship 2,PTC,Last 16,1
+2/10/2011,Euro Players Tour Championship 2,PTC,Last 32,1
+2/10/2011,Euro Players Tour Championship 2,PTC,Last 64,1
+2/10/2011,Euro Players Tour Championship 2,PTC,Last 128,1
+25/09/2011,England Players Tour Championship 4,PTC,Last 32,0
+25/09/2011,England Players Tour Championship 4,PTC,Last 64,1
+25/09/2011,England Players Tour Championship 4,PTC,Last 128,1
+7/9/2011,Shanghai Masters,RN,Last 32,0
+28/08/2011,Euro Players Tour Championship 1,PTC,Last 32,0
+28/08/2011,Euro Players Tour Championship 1,PTC,Last 64,1
+28/08/2011,Euro Players Tour Championship 1,PTC,Last 128,1
+21/08/2011,England Players Tour Championship 3,PTC,Last 32,0
+21/08/2011,England Players Tour Championship 3,PTC,Last 64,1
+21/08/2011,England Players Tour Championship 3,PTC,Last 128,1
+10/8/2011,England Players Tour Championship 2,PTC,Final,1
+10/8/2011,England Players Tour Championship 2,PTC,Semi Final,1
+10/8/2011,England Players Tour Championship 2,PTC,Quarter Final,1
+10/8/2011,England Players Tour Championship 2,PTC,Last 16,1
+10/8/2011,England Players Tour Championship 2,PTC,Last 32,1
+10/8/2011,England Players Tour Championship 2,PTC,Last 64,1
+10/8/2011,England Players Tour Championship 2,PTC,Last 128,1
+18/07/2011,Australian Open,R,Last 32,0
+22/06/2011,England Players Tour Championship 1,PTC,Last 128,0
+2/5/2011,World Championships,WC,Final,0
+30/04/2011,World Championships,WC,Semi Final,1
+27/04/2011,World Championships,WC,Quarter Final,1
+23/04/2011,World Championships,WC,Last 16,1
+16/04/2011,World Championships,WC,Last 32,1
+3/4/2011,China Open,RN,Final,1
+2/4/2011,China Open,RN,Semi Final,1
+1/4/2011,China Open,RN,Quarter Final,1
+31/03/2011,China Open,RN,Last 16,1
+30/03/2011,China Open,RN,Last 32,1
+20/03/2011,Players Tour Championship Finals,PTF,Last 16,0
+13/03/2011,World Championships,WC,Last 48,1
+27/02/2011,China Open,RN,Last 48,1
+11/2/2011,Welsh Open,R,Last 48,0
+3/2/2011,German Masters,R,Last 32,0
+17/12/2010,German Masters,R,Last 48,1
+7/12/2010,UK Championship,UK,Last 16,0
+6/12/2010,UK Championship,UK,Last 32,1
+30/11/2010,UK Championship,UK,Last 48,1
+21/11/2010,Euro Players Tour Championship 6,PTC,Last 128,0
+14/11/2010,Euro Players Tour Championship 5,PTC,Last 16,0
+14/11/2010,Euro Players Tour Championship 5,PTC,Last 32,1
+14/11/2010,Euro Players Tour Championship 5,PTC,Last 64,1
+31/10/2010,Euro Players Tour Championship 4,PTC,Last 32,0
+31/10/2010,Euro Players Tour Championship 4,PTC,Last 64,1
+31/10/2010,Euro Players Tour Championship 4,PTC,Last 128,1
+24/10/2010,Euro Players Tour Championship 3,PTC,Quarter Final,0
+24/10/2010,Euro Players Tour Championship 3,PTC,Last 16,1
+24/10/2010,Euro Players Tour Championship 3,PTC,Last 32,1
+24/10/2010,Euro Players Tour Championship 3,PTC,Last 64,1
+24/10/2010,Euro Players Tour Championship 3,PTC,Last 128,1
+17/10/2010,England Players Tour Championship 6,PTC,Last 32,0
+17/10/2010,England Players Tour Championship 6,PTC,Last 64,1
+17/10/2010,England Players Tour Championship 6,PTC,Last 128,1
+10/10/2010,England Players Tour Championship 5,PTC,Last 128,0
+3/10/2010,Euro Players Tour Championship 2,PTC,Last 32,0
+3/10/2010,Euro Players Tour Championship 2,PTC,Last 64,1
+3/10/2010,Euro Players Tour Championship 2,PTC,Last 128,1
+22/09/2010,World Open,RN,Last 32,0
+7/9/2010,Shanghai Masters,RN,Last 32,0
+29/08/2010,Euro Players Tour Championship 1,PTC,Final,1
+29/08/2010,Euro Players Tour Championship 1,PTC,Semi Final,1
+29/08/2010,Euro Players Tour Championship 1,PTC,Quarter Final,1
+29/08/2010,Euro Players Tour Championship 1,PTC,Last 16,1
+29/08/2010,Euro Players Tour Championship 1,PTC,Last 32,1
+29/08/2010,Euro Players Tour Championship 1,PTC,Last 64,1
+29/08/2010,Euro Players Tour Championship 1,PTC,Last 128,1
+24/08/2010,World Open,RN,Last 64,1
+16/08/2010,England Players Tour Championship 4,PTC,Last 16,0
+16/08/2010,England Players Tour Championship 4,PTC,Last 32,1
+16/08/2010,England Players Tour Championship 4,PTC,Last 64,1
+16/08/2010,England Players Tour Championship 4,PTC,Last 128,1
+8/8/2010,England Players Tour Championship 3,PTC,Last 16,0
+8/8/2010,England Players Tour Championship 3,PTC,Last 32,1
+8/8/2010,England Players Tour Championship 3,PTC,Last 64,1
+8/8/2010,England Players Tour Championship 3,PTC,Last 128,1
+5/8/2010,Shanghai Masters,RN,Last 48,1
+10/7/2010,England Players Tour Championship 2,PTC,Last 32,0
+10/7/2010,England Players Tour Championship 2,PTC,Last 64,1
+10/7/2010,England Players Tour Championship 2,PTC,Last 128,1
+27/06/2010,England Players Tour Championship 1,PTC,Last 16,0
+26/06/2010,England Players Tour Championship 1,PTC,Last 32,1
+26/06/2010,England Players Tour Championship 1,PTC,Last 64,1
+26/06/2010,England Players Tour Championship 1,PTC,Last 128,1
+31/03/2010,China Open,RN,Last 32,0
+8/3/2010,World Championships,WC,Last 48,0
+5/2/2010,China Open,RN,Last 48,1
+27/01/2010,Welsh Open,R,Last 32,0
+22/01/2010,Welsh Open,R,Last 48,1
+6/12/2009,UK Championship,T2,Last 32,0
+30/11/2009,UK Championship,T2,Last 48,1
+29/10/2009,Masters Qualifier,Q,Last 32,0
+24/09/2009,Grand Prix,RN,Last 48,0
+6/8/2009,Shanghai Masters,RN,Last 48,0
+30/03/2009,China Open,R,Last 39,0
+9/3/2009,World Championships,WC,Last 48,0
+4/3/2009,World Championships,WC,Last 64,1
+5/2/2009,Welsh Open,R,Last 64,0
+24/01/2009,China Open,R,Last 48,1
+24/01/2009,China Open,R,Last 64,1
+21/12/2008,UK Championship,UK,Last 32,0
+21/12/2008,UK Championship,UK,Last 48,1
+21/12/2008,UK Championship,UK,Last 64,1
+26/11/2008,Masters Qualifier,Q,Final,1
+26/11/2008,Masters Qualifier,Q,Semi Final,1
+26/11/2008,Masters Qualifier,Q,Quarter Final,1
+26/11/2008,Masters Qualifier,Q,Last 16,1
+26/11/2008,Masters Qualifier,Q,Last 32,1
+26/11/2008,Masters Qualifier,Q,Last 64,1
+15/11/2008,Bahrain Championship,R,Last 32,0
+15/11/2008,Bahrain Championship,R,Last 48,1
+15/11/2008,Bahrain Championship,R,Last 64,1
+19/10/2008,Grand Prix,GP,Semi Final,0
+19/10/2008,Grand Prix,GP,Quarter Final,1
+19/10/2008,Grand Prix,GP,Last 16,1
+19/10/2008,Grand Prix,GP,Last 32,1
+19/10/2008,Grand Prix,GP,Last 48,1
+19/10/2008,Grand Prix,GP,Last 64,1
+5/10/2008,Shanghai Masters,R,Last 32,0
+5/10/2008,Shanghai Masters,R,Last 48,1
+5/10/2008,Shanghai Masters,R,Last 39,1
+5/10/2008,Shanghai Masters,R,Last 64,1
+31/08/2008,Northern Ireland Trophy,R,Last 48,0
+31/08/2008,Northern Ireland Trophy,R,Last 64,1
+10/3/2008,World Championships,WC,Last 48,0
+17/02/2008,Welsh Open,R,Last 32,0
+17/02/2008,Welsh Open,R,Last 48,1
+28/01/2008,Welsh Open,R,Last 64,1
+28/01/2008,Welsh Open,R,Last 80,1
+25/01/2008,China Open,R,Last 64,0
+25/01/2008,China Open,R,Last 80,1
+11/1/2008,World Championships,WC,Last 64,1
+11/1/2008,World Championships,WC,Last 80,1
+16/12/2007,UK Championship,UK,Last 80,0
+11/11/2007,Northern Ireland Trophy,R,Last 64,0
+11/11/2007,Northern Ireland Trophy,R,Last 80,1
+21/10/2007,Grand Prix,GP,Last 96 Group (8th),0
+21/10/2007,Grand Prix,GP,Last 96 Group (8th),0
+21/10/2007,Grand Prix,GP,Last 96 Group (8th),0
+21/10/2007,Grand Prix,GP,Last 96 Group (8th),1
+21/10/2007,Grand Prix,GP,Last 96 Group (8th),1
+21/10/2007,Grand Prix,GP,Last 96 Group (8th),0
+21/10/2007,Grand Prix,GP,Last 96 Group (8th),1
+12/9/2007,Masters Qualifier,Q,Last 32,0
+12/9/2007,Masters Qualifier,Q,Last 64,1
+12/8/2007,Shanghai Masters,R,Last 64,0
+12/8/2007,Shanghai Masters,R,Last 80,1
+7/5/2007,World Championships,WC,Last 32,0
+7/5/2007,World Championships,WC,Last 48,1
+7/5/2007,World Championships,WC,Last 64,1
+7/5/2007,World Championships,WC,Last 80,1
+7/5/2007,World Championships,WC,Last 96,1
+18/02/2007,Welsh Open,R,Last 80,0
+18/02/2007,Welsh Open,R,Last 96,1
+16/12/2006,UK Championship,UK,Last 64,0
+16/12/2006,UK Championship,UK,Last 80,1
+16/12/2006,UK Championship,UK,Last 96,1
+9/11/2006,Masters Qualifier,Q,Last 32,0
+9/11/2006,Masters Qualifier,Q,Last 64,1
+20/08/2006,Northern Ireland Trophy,R,Last 64,0
+20/08/2006,Northern Ireland Trophy,R,Last 80,1
+20/08/2006,Northern Ireland Trophy,R,Last 96,1
+2/5/2006,World Championships,WC,Last 80,0
+2/5/2006,World Championships,WC,Last 96,1
+5/3/2006,Welsh Open,R,Last 48,0
+5/3/2006,Welsh Open,R,Last 64,1
+5/3/2006,Welsh Open,R,Last 80,1
+5/3/2006,Welsh Open,R,Last 96,1
+23/11/2005,Masters Qualifier,Q,Last 32,0
+23/11/2005,Masters Qualifier,Q,Last 48,1
