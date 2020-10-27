@@ -1,0 +1,654 @@
+Tournament,Category,Score,Opp Score,"Result (Won = 1, Lost = 0)"
+World Championships,WC,18,9,1
+World Championships,WC,17,11,1
+World Championships,WC,13,6,1
+World Championships,WC,13,9,1
+World Championships,WC,10,9,1
+China Open,R,5,6,0
+Tour Championship,R,9,10,0
+Tour Championship,R,9,8,1
+Players Championship,R,4,6,0
+Players Championship,R,6,5,1
+Players Championship,R,6,0,1
+China Open,R,6,2,1
+Welsh Open,R,2,4,0
+Welsh Open,R,4,0,1
+World Grand Prix,R,10,6,1
+World Grand Prix,R,6,5,1
+World Grand Prix,R,5,1,1
+World Grand Prix,R,4,2,1
+World Grand Prix,R,4,3,1
+German Masters,R,2,5,0
+German Masters,R,5,1,1
+German Masters,R,5,2,1
+German Masters,R,5,0,1
+German Masters,R,5,2,1
+Scottish Open,R,3,6,0
+Scottish Open,R,5,3,1
+Scottish Open,R,4,1,1
+Scottish Open,R,4,1,1
+Scottish Open,R,4,0,1
+Scottish Open,R,4,0,1
+UK Championship,UK,4,6,0
+UK Championship,UK,6,2,1
+UK Championship,UK,6,5,1
+UK Championship,UK,6,0,1
+Northern Ireland Open,R,9,7,1
+Northern Ireland Open,R,6,3,1
+Northern Ireland Open,R,5,3,1
+Northern Ireland Open,R,4,2,1
+Northern Ireland Open,R,4,0,1
+Northern Ireland Open,R,4,0,1
+Northern Ireland Open,R,4,2,1
+International Championship,R,2,6,0
+International Championship,R,6,1,1
+International Championship,R,6,1,1
+International Championship,R,6,0,1
+English Open,R,2,4,0
+English Open,R,4,2,1
+English Open,R,4,3,1
+English Open,R,4,1,1
+International Championship,R,6,4,1
+European Masters,R,2,4,0
+European Masters,R,4,0,1
+European Masters,R,4,0,1
+China Championship,R,3,5,0
+China Championship,R,5,1,1
+China Championship,R,5,2,1
+China Championship,R,5,0,1
+China Championship,R,5,3,1
+World Open,R,3,5,0
+World Open,R,5,1,1
+World Open,R,5,0,1
+World Championships,WC,12,13,0
+World Championships,WC,13,9,1
+World Championships,WC,10,9,1
+Players Championship,R,5,6,0
+Players Championship,R,6,1,1
+Players Championship,R,6,4,1
+Welsh Open,R,1,4,0
+Welsh Open,R,4,3,1
+World Grand Prix,R,1,4,0
+German Masters,R,1,6,0
+German Masters,R,5,3,1
+German Masters,R,5,3,1
+German Masters,R,5,3,1
+China Open,R,5,6,0
+German Masters,R,5,4,1
+German Masters,R,5,3,1
+Scottish Open,R,4,6,0
+Scottish Open,R,5,2,1
+Scottish Open,R,4,3,1
+Scottish Open,R,4,0,1
+Scottish Open,R,4,2,1
+Scottish Open,R,4,0,1
+UK Championship,UK,2,6,0
+UK Championship,UK,6,0,1
+UK Championship,UK,6,0,1
+Northern Ireland Open,R,2,4,0
+Shanghai Masters,R,3,10,0
+Shanghai Masters,R,6,3,1
+Shanghai Masters,R,5,0,1
+Shanghai Masters,R,5,0,1
+Shanghai Masters,R,5,0,1
+Shanghai Masters,R,5,0,1
+International Championship,R,5,6,0
+International Championship,R,6,3,1
+International Championship,R,6,3,1
+International Championship,R,6,0,1
+English Open,R,3,4,0
+English Open,R,4,1,1
+English Open,R,4,0,1
+English Open,R,4,3,1
+Shanghai Masters,R,5,2,1
+European Masters,R,9,7,1
+European Masters,R,6,1,1
+European Masters,R,4,3,1
+European Masters,R,4,2,1
+European Masters,R,4,3,1
+European Masters,R,4,1,1
+European Masters,R,4,0,1
+International Championship,R,6,0,1
+China Championship,R,3,5,0
+China Championship,R,5,2,1
+World Open,R,0,5,0
+China Championship,R,5,1,1
+World Championships,WC,8,10,0
+China Open,R,3,5,0
+China Open,R,5,3,1
+China Open,R,5,0,1
+China Open,R,5,1,1
+China Open,R,5,0,1
+Players Championship,PTF,10,8,1
+Players Championship,PTF,6,4,1
+Players Championship,PTF,5,3,1
+Players Championship,PTF,5,2,1
+Gibraltar Open,R,2,4,0
+Gibraltar Open,R,4,2,1
+Gibraltar Open,R,4,1,1
+Gibraltar Open,R,4,1,1
+Gibraltar Open,R,4,1,1
+Gibraltar Open,R,4,1,1
+Gibraltar Open,R,4,0,1
+Welsh Open,R,8,9,0
+Welsh Open,R,6,3,1
+Welsh Open,R,5,4,1
+Welsh Open,R,4,1,1
+Welsh Open,R,4,0,1
+Welsh Open,R,4,2,1
+Welsh Open,R,4,1,1
+World Grand Prix,R,1,4,0
+World Grand Prix,R,4,2,1
+Scottish Open,R,5,6,0
+Scottish Open,R,5,3,1
+Scottish Open,R,4,2,1
+Scottish Open,R,4,0,1
+Scottish Open,R,4,0,1
+Scottish Open,R,4,0,1
+German Masters,R,1,5,0
+German Masters,R,5,0,1
+UK Championship,UK,2,6,0
+UK Championship,UK,6,2,1
+Northern Ireland Open,R,-1,-1,0
+International Championship,UK,4,9,0
+International Championship,UK,6,5,1
+International Championship,UK,6,3,1
+International Championship,UK,6,1,1
+International Championship,UK,6,3,1
+English Open,R,6,9,0
+English Open,R,6,2,1
+English Open,R,5,1,1
+English Open,R,4,0,1
+English Open,R,4,1,1
+English Open,R,4,3,1
+English Open,R,4,1,1
+European Masters,R,9,8,1
+European Masters,R,6,2,1
+European Masters,R,4,0,1
+European Masters,R,4,0,1
+European Masters,R,4,3,1
+International Championship,UK,6,2,1
+European Masters,R,4,2,1
+European Masters,R,4,3,1
+Shanghai Masters,R,3,5,0
+Shanghai Masters,R,5,0,1
+World Open,R,2,5,0
+World Open,R,-1,-1,1
+Riga Masters,R,1,4,0
+Riga Masters,R,4,2,1
+Riga Masters,R,4,1,1
+Riga Masters,R,4,1,1
+Riga Masters,R,4,0,1
+World Open,R,5,1,1
+World Championships,WC,10,13,0
+World Championships,WC,10,8,1
+China Open,RN,10,4,1
+China Open,RN,6,0,1
+China Open,RN,5,3,1
+China Open,RN,5,1,1
+China Open,RN,5,1,1
+China Open,RN,-1,-1,1
+Players Tour Championship Finals,PTF,1,4,0
+Players Tour Championship Finals,PTF,4,1,1
+World Grand Prix,R,2,4,0
+World Grand Prix,R,4,1,1
+Gdynia Open,PTC,-1,-1,0
+Welsh Open,R,3,4,0
+Welsh Open,R,4,2,1
+Welsh Open,R,4,1,1
+Welsh Open,R,4,0,1
+China Open,RN,5,0,1
+German Masters,R,4,5,0
+German Masters,R,5,1,1
+German Masters,R,5,0,1
+German Masters,R,5,2,1
+German Masters,R,5,1,1
+Gibraltar Open,PTC,3,4,0
+Gibraltar Open,PTC,4,0,1
+UK Championship,UK,4,6,0
+UK Championship,UK,6,3,1
+UK Championship,UK,6,1,1
+Bulgarian Open,PTC,1,4,0
+Bulgarian Open,PTC,4,2,1
+Bulgarian Open,PTC,4,2,1
+Bulgarian Open,PTC,4,1,1
+Bulgarian Open,PTC,4,0,1
+Ruhr Open,PTC,3,4,0
+International Championship,UK,0,6,0
+Shanghai Masters,RN,9,10,0
+Shanghai Masters,RN,6,3,1
+Shanghai Masters,RN,5,1,1
+Shanghai Masters,RN,5,4,1
+Shanghai Masters,RN,5,0,1
+Paul Hunter Classic,PTC,1,4,0
+Paul Hunter Classic,PTC,4,3,1
+Paul Hunter Classic,PTC,4,1,1
+Paul Hunter Classic,PTC,4,2,1
+Paul Hunter Classic,PTC,4,2,1
+Riga Open,PTC,1,4,0
+Riga Open,PTC,4,2,1
+Riga Open,PTC,4,1,1
+Riga Open,PTC,4,2,1
+Australian Open,R,1,5,0
+Australian Open,R,5,2,1
+Australian Open,R,5,0,1
+World Championships,WC,16,17,0
+World Championships,WC,13,4,1
+World Championships,WC,13,8,1
+World Championships,WC,10,6,1
+China Open,RN,4,5,0
+China Open,RN,5,1,1
+China Open,RN,5,3,1
+Players Tour Championship Finals,PTF,2,4,0
+Players Tour Championship Finals,PTF,4,2,1
+Players Tour Championship Finals,PTF,4,2,1
+Players Tour Championship Finals,PTF,4,0,1
+Indian Open,R,3,4,0
+Indian Open,R,4,3,1
+Indian Open,R,4,2,1
+Gdynia Open,PTC,3,4,0
+Gdynia Open,PTC,4,2,1
+Gdynia Open,PTC,4,0,1
+Gdynia Open,PTC,4,1,1
+Gdynia Open,PTC,4,0,1
+Welsh Open,R,1,4,0
+Welsh Open,R,4,2,1
+Welsh Open,R,4,0,1
+Welsh Open,R,4,2,1
+China Open,RN,5,0,1
+Indian Open,R,4,0,1
+German Masters,R,4,5,0
+German Masters,R,5,1,1
+German Masters,R,5,0,1
+German Masters,R,5,4,1
+German Masters,R,5,0,1
+Lisbon Open,PTC,1,4,0
+Lisbon Open,PTC,4,2,1
+Lisbon Open,PTC,4,3,1
+Lisbon Open,PTC,4,0,1
+Lisbon Open,PTC,4,0,1
+UK Championship,UK,9,10,0
+UK Championship,UK,6,4,1
+UK Championship,UK,6,1,1
+UK Championship,UK,6,3,1
+UK Championship,UK,6,3,1
+UK Championship,UK,6,1,1
+UK Championship,UK,-1,-1,1
+Ruhr Open,PTC,3,4,0
+Ruhr Open,PTC,4,1,1
+Ruhr Open,PTC,4,3,1
+Ruhr Open,PTC,4,2,1
+Ruhr Open,PTC,4,2,1
+Ruhr Open,PTC,4,0,1
+International Championship,UK,5,6,0
+International Championship,UK,6,5,1
+Bulgarian Open,PTC,3,4,0
+Bulgarian Open,PTC,4,3,1
+Bulgarian Open,PTC,4,1,1
+Bulgarian Open,PTC,4,0,1
+International Championship,UK,6,0,1
+Shanghai Masters,RN,2,5,0
+Paul Hunter Classic,PTC,2,4,0
+Paul Hunter Classic,PTC,4,1,1
+Paul Hunter Classic,PTC,4,3,1
+Paul Hunter Classic,PTC,4,2,1
+Paul Hunter Classic,PTC,4,3,1
+Paul Hunter Classic,PTC,4,0,1
+Paul Hunter Classic,PTC,-1,-1,1
+Riga Open,PTC,3,4,0
+Riga Open,PTC,4,1,1
+Riga Open,PTC,4,1,1
+Riga Open,PTC,4,3,1
+Riga Open,PTC,4,1,1
+Australian Open,R,9,5,1
+Australian Open,R,6,3,1
+Australian Open,R,5,4,1
+Australian Open,R,5,3,1
+Australian Open,R,5,2,1
+Wuxi Classic,RN,0,5,0
+Wuxi Classic,RN,5,3,1
+Wuxi Classic,RN,5,1,1
+Wuxi Classic,RN,5,3,1
+World Championships,WC,11,13,0
+World Championships,WC,13,7,1
+World Championships,WC,10,8,1
+China Open,RN,4,5,0
+China Open,RN,5,1,1
+Players Tour Championship Finals,PTF,1,4,0
+Players Tour Championship Finals,PTF,4,2,1
+Players Tour Championship Finals,PTF,4,0,1
+Players Tour Championship Finals,PTF,4,1,1
+World Open,RN,4,5,0
+World Open,RN,5,4,1
+World Open,RN,5,0,1
+Welsh Open,R,3,4,0
+Welsh Open,R,4,1,1
+Welsh Open,R,4,1,1
+Welsh Open,R,4,2,1
+China Open,RN,5,0,1
+Gdynia Open,PTC,1,4,0
+Gdynia Open,PTC,4,3,1
+Gdynia Open,PTC,4,3,1
+Gdynia Open,PTC,4,0,1
+Gdynia Open,PTC,4,2,1
+German Masters,R,5,9,0
+German Masters,R,6,1,1
+German Masters,R,5,0,1
+German Masters,R,5,2,1
+German Masters,R,5,0,1
+German Masters,R,5,1,1
+World Open,RN,5,3,1
+German Masters,R,5,3,1
+UK Championship,UK,4,6,0
+UK Championship,UK,6,2,1
+UK Championship,UK,6,0,1
+UK Championship,UK,6,2,1
+Antwerp Open,PTC,3,4,0
+Antwerp Open,PTC,4,3,1
+Antwerp Open,PTC,4,1,1
+Kay Suzanne Memorial Cup,PTC,1,4,0
+Kay Suzanne Memorial Cup,PTC,4,3,1
+Kay Suzanne Memorial Cup,PTC,4,2,1
+Kay Suzanne Memorial Cup,PTC,4,3,1
+Kay Suzanne Memorial Cup,PTC,4,0,1
+Kay Suzanne Memorial Cup,PTC,4,1,1
+Kay Suzanne Memorial Cup,PTC,4,0,1
+International Championship,UK,5,6,0
+Ruhr Open,PTC,1,4,0
+Ruhr Open,PTC,4,2,1
+Ruhr Open,PTC,4,0,1
+Ruhr Open,PTC,4,1,1
+Ruhr Open,PTC,4,1,1
+International Championship,UK,6,4,1
+Shanghai Masters,RN,1,5,0
+Paul Hunter Classic,PTC,2,4,0
+Paul Hunter Classic,PTC,4,2,1
+Paul Hunter Classic,PTC,4,1,1
+Doncaster European Tour,PTC,3,4,0
+Indian Open,R,3,4,0
+Rotterdam Open,PTC,3,4,0
+Rotterdam Open,PTC,4,0,1
+Rotterdam Open,PTC,4,0,1
+Wuxi Classic,RN,2,5,0
+Bulgarian Open,PTC,2,4,0
+Bulgarian Open,PTC,4,0,1
+Wuxi Classic,RN,5,0,1
+World Championships,WC,11,17,0
+World Championships,WC,13,12,1
+World Championships,WC,13,7,1
+World Championships,WC,10,5,1
+China Open,RN,3,5,0
+Players Tour Championship Finals,PTF,3,4,0
+World Open,RN,3,5,0
+World Open,RN,5,1,1
+World Open,RN,5,0,1
+Welsh Open,R,4,6,0
+Welsh Open,R,5,2,1
+Welsh Open,R,4,1,1
+Welsh Open,R,4,3,1
+Welsh Open,R,4,0,1
+German Masters,R,4,5,0
+German Masters,R,5,4,1
+UK Championship,UK,5,6,0
+Bulgarian Open,PTC,4,0,1
+Bulgarian Open,PTC,4,2,1
+Bulgarian Open,PTC,4,0,1
+Bulgarian Open,PTC,4,1,1
+Bulgarian Open,PTC,4,2,1
+Bulgarian Open,PTC,4,0,1
+Bulgarian Open,PTC,4,1,1
+England Players Tour Championship 4,PTC,2,4,0
+England Players Tour Championship 4,PTC,4,1,1
+England Players Tour Championship 4,PTC,4,2,1
+England Players Tour Championship 4,PTC,4,3,1
+England Players Tour Championship 4,PTC,4,0,1
+England Players Tour Championship 4,PTC,4,2,1
+England Players Tour Championship 4,PTC,4,3,1
+International Championship,UK,10,8,1
+International Championship,UK,9,1,1
+International Championship,UK,6,5,1
+International Championship,UK,6,0,1
+International Championship,UK,6,3,1
+Antwerp Open,PTC,2,4,0
+Antwerp Open,PTC,4,2,1
+Gdynia Open,PTC,0,4,0
+Gdynia Open,PTC,4,1,1
+Shanghai Masters,RN,9,10,0
+Shanghai Masters,RN,6,4,1
+Shanghai Masters,RN,5,4,1
+Shanghai Masters,RN,5,2,1
+Shanghai Masters,RN,5,3,1
+England Players Tour Championship 3,PTC,1,4,0
+England Players Tour Championship 3,PTC,4,2,1
+England Players Tour Championship 3,PTC,4,0,1
+England Players Tour Championship 3,PTC,4,1,1
+Paul Hunter Classic,PTC,3,4,0
+Paul Hunter Classic,PTC,4,1,1
+Paul Hunter Classic,PTC,,,1
+England Players Tour Championship 2,PTC,2,4,0
+England Players Tour Championship 2,PTC,4,1,1
+England Players Tour Championship 2,PTC,4,3,1
+England Players Tour Championship 2,PTC,4,1,1
+England Players Tour Championship 1,PTC,3,4,0
+England Players Tour Championship 1,PTC,4,1,1
+England Players Tour Championship 1,PTC,4,2,1
+England Players Tour Championship 1,PTC,4,1,1
+England Players Tour Championship 1,PTC,4,0,1
+Wuxi Classic,RN,3,5,0
+Wuxi Classic,RN,5,1,1
+World Championships,WC,12,13,0
+World Championships,WC,10,7,1
+China Open,RN,3,5,0
+China Open,RN,5,3,1
+China Open,RN,5,3,1
+Players Tour Championship Finals,PTF,2,4,0
+World Open,RN,4,5,0
+World Open,RN,5,0,1
+Welsh Open,R,3,5,0
+Welsh Open,R,4,1,1
+Welsh Open,R,4,0,1
+German Masters,R,4,5,0
+German Masters,R,5,2,1
+German Masters,R,5,1,1
+Euro Players Tour Championship 5,PTC,1,4,0
+Euro Players Tour Championship 5,PTC,4,0,1
+Euro Players Tour Championship 5,PTC,4,2,1
+Euro Players Tour Championship 5,PTC,4,0,1
+Euro Players Tour Championship 5,PTC,4,0,1
+UK Championship,UK,10,8,1
+UK Championship,UK,9,7,1
+UK Championship,UK,6,3,1
+UK Championship,UK,6,5,1
+UK Championship,UK,6,4,1
+England Players Tour Championship 6,PTC,3,4,0
+Euro Players Tour Championship 4,PTC,4,3,1
+Euro Players Tour Championship 4,PTC,4,1,1
+Euro Players Tour Championship 4,PTC,4,2,1
+Euro Players Tour Championship 4,PTC,4,0,1
+Euro Players Tour Championship 4,PTC,4,3,1
+Euro Players Tour Championship 4,PTC,4,2,1
+Euro Players Tour Championship 4,PTC,4,1,1
+Euro Players Tour Championship 3,PTC,1,4,0
+Euro Players Tour Championship 3,PTC,4,1,1
+Euro Players Tour Championship 3,PTC,4,2,1
+Euro Players Tour Championship 3,PTC,4,0,1
+Euro Players Tour Championship 3,PTC,4,0,1
+Euro Players Tour Championship 3,PTC,4,2,1
+Euro Players Tour Championship 3,PTC,4,3,1
+England Players Tour Championship 5,PTC,3,4,0
+England Players Tour Championship 5,PTC,4,2,1
+England Players Tour Championship 5,PTC,4,2,1
+Euro Players Tour Championship 2,PTC,3,4,0
+Euro Players Tour Championship 2,PTC,4,3,1
+Euro Players Tour Championship 2,PTC,4,1,1
+Euro Players Tour Championship 2,PTC,4,3,1
+Euro Players Tour Championship 2,PTC,4,0,1
+England Players Tour Championship 4,PTC,1,4,0
+England Players Tour Championship 4,PTC,4,1,1
+England Players Tour Championship 4,PTC,4,2,1
+Shanghai Masters,RN,1,5,0
+Euro Players Tour Championship 1,PTC,3,4,0
+Euro Players Tour Championship 1,PTC,4,1,1
+Euro Players Tour Championship 1,PTC,4,0,1
+England Players Tour Championship 3,PTC,0,4,0
+England Players Tour Championship 3,PTC,4,1,1
+England Players Tour Championship 3,PTC,4,0,1
+England Players Tour Championship 2,PTC,4,0,1
+England Players Tour Championship 2,PTC,4,0,1
+England Players Tour Championship 2,PTC,4,1,1
+England Players Tour Championship 2,PTC,4,3,1
+England Players Tour Championship 2,PTC,4,2,1
+England Players Tour Championship 2,PTC,4,2,1
+England Players Tour Championship 2,PTC,4,2,1
+Australian Open,R,3,5,0
+England Players Tour Championship 1,PTC,1,4,0
+World Championships,WC,15,18,0
+World Championships,WC,17,15,1
+World Championships,WC,13,5,1
+World Championships,WC,13,6,1
+World Championships,WC,10,8,1
+China Open,RN,10,8,1
+China Open,RN,6,1,1
+China Open,RN,5,1,1
+China Open,RN,5,2,1
+China Open,RN,5,3,1
+Players Tour Championship Finals,PTF,2,4,0
+World Championships,WC,10,4,1
+China Open,RN,5,1,1
+Welsh Open,R,1,4,0
+German Masters,R,2,5,0
+German Masters,R,5,3,1
+UK Championship,UK,7,9,0
+UK Championship,UK,9,6,1
+UK Championship,UK,9,7,1
+Euro Players Tour Championship 6,PTC,2,4,0
+Euro Players Tour Championship 5,PTC,0,4,0
+Euro Players Tour Championship 5,PTC,4,0,1
+Euro Players Tour Championship 5,PTC,4,2,1
+Euro Players Tour Championship 4,PTC,0,4,0
+Euro Players Tour Championship 4,PTC,4,1,1
+Euro Players Tour Championship 4,PTC,4,1,1
+Euro Players Tour Championship 3,PTC,1,4,0
+Euro Players Tour Championship 3,PTC,4,3,1
+Euro Players Tour Championship 3,PTC,4,2,1
+Euro Players Tour Championship 3,PTC,4,1,1
+Euro Players Tour Championship 3,PTC,4,1,1
+England Players Tour Championship 6,PTC,1,4,0
+England Players Tour Championship 6,PTC,4,2,1
+England Players Tour Championship 6,PTC,4,0,1
+England Players Tour Championship 5,PTC,1,4,0
+Euro Players Tour Championship 2,PTC,0,4,0
+Euro Players Tour Championship 2,PTC,4,1,1
+Euro Players Tour Championship 2,PTC,4,0,1
+World Open,RN,2,3,0
+Shanghai Masters,RN,3,5,0
+Euro Players Tour Championship 1,PTC,4,3,1
+Euro Players Tour Championship 1,PTC,4,2,1
+Euro Players Tour Championship 1,PTC,4,0,1
+Euro Players Tour Championship 1,PTC,4,2,1
+Euro Players Tour Championship 1,PTC,4,0,1
+Euro Players Tour Championship 1,PTC,4,2,1
+Euro Players Tour Championship 1,PTC,4,0,1
+World Open,RN,3,0,1
+England Players Tour Championship 4,PTC,0,4,0
+England Players Tour Championship 4,PTC,4,0,1
+England Players Tour Championship 4,PTC,4,0,1
+England Players Tour Championship 4,PTC,4,1,1
+England Players Tour Championship 3,PTC,3,4,0
+England Players Tour Championship 3,PTC,4,3,1
+England Players Tour Championship 3,PTC,4,2,1
+England Players Tour Championship 3,PTC,4,1,1
+Shanghai Masters,RN,5,1,1
+England Players Tour Championship 2,PTC,2,4,0
+England Players Tour Championship 2,PTC,4,1,1
+England Players Tour Championship 2,PTC,4,2,1
+England Players Tour Championship 1,PTC,0,4,0
+England Players Tour Championship 1,PTC,4,2,1
+England Players Tour Championship 1,PTC,4,2,1
+England Players Tour Championship 1,PTC,4,1,1
+China Open,RN,4,5,0
+World Championships,WC,3,10,0
+China Open,RN,5,1,1
+Welsh Open,R,2,5,0
+Welsh Open,R,5,4,1
+UK Championship,T2,4,9,0
+UK Championship,T2,9,7,1
+Masters Qualifier,Q,1,5,0
+Grand Prix,RN,3,5,0
+Shanghai Masters,RN,2,5,0
+China Open,R,3,5,0
+World Championships,WC,8,10,0
+World Championships,WC,10,1,1
+Welsh Open,R,3,5,0
+China Open,R,5,0,1
+China Open,R,5,3,1
+UK Championship,UK,8,9,0
+UK Championship,UK,9,6,1
+UK Championship,UK,9,8,1
+Masters Qualifier,Q,6,1,1
+Masters Qualifier,Q,5,2,1
+Masters Qualifier,Q,5,1,1
+Masters Qualifier,Q,5,2,1
+Masters Qualifier,Q,5,3,1
+Masters Qualifier,Q,4,0,1
+Bahrain Championship,R,1,5,0
+Bahrain Championship,R,5,2,1
+Bahrain Championship,R,5,4,1
+Grand Prix,GP,4,6,0
+Grand Prix,GP,5,4,1
+Grand Prix,GP,5,2,1
+Grand Prix,GP,-1,-1,1
+Grand Prix,GP,5,2,1
+Grand Prix,GP,5,1,1
+Shanghai Masters,R,1,5,0
+Shanghai Masters,R,5,3,1
+Shanghai Masters,R,5,4,1
+Shanghai Masters,R,5,2,1
+Northern Ireland Trophy,R,3,5,0
+Northern Ireland Trophy,R,5,0,1
+World Championships,WC,9,10,0
+Welsh Open,R,3,5,0
+Welsh Open,R,5,2,1
+Welsh Open,R,5,2,1
+Welsh Open,R,5,1,1
+China Open,R,1,5,0
+China Open,R,5,4,1
+World Championships,WC,10,2,1
+World Championships,WC,10,4,1
+UK Championship,UK,8,9,0
+Northern Ireland Trophy,R,0,5,0
+Northern Ireland Trophy,R,5,1,1
+Grand Prix,GP,1,4,0
+Grand Prix,GP,3,4,0
+Grand Prix,GP,2,4,0
+Grand Prix,GP,4,2,1
+Grand Prix,GP,4,2,1
+Grand Prix,GP,1,4,0
+Grand Prix,GP,4,2,1
+Masters Qualifier,Q,4,5,0
+Masters Qualifier,Q,4,2,1
+Shanghai Masters,R,4,5,0
+Shanghai Masters,R,5,1,1
+World Championships,WC,6,10,0
+World Championships,WC,10,5,1
+World Championships,WC,10,7,1
+World Championships,WC,10,7,1
+World Championships,WC,10,8,1
+Welsh Open,R,2,5,0
+Welsh Open,R,5,2,1
+UK Championship,UK,7,9,0
+UK Championship,UK,9,2,1
+UK Championship,UK,9,0,1
+Masters Qualifier,Q,4,5,0
+Masters Qualifier,Q,4,2,1
+Northern Ireland Trophy,R,2,5,0
+Northern Ireland Trophy,R,5,0,1
+Northern Ireland Trophy,R,5,3,1
+World Championships,WC,7,10,0
+World Championships,WC,10,8,1
+Welsh Open,R,3,5,0
+Welsh Open,R,5,1,1
+Welsh Open,R,5,1,1
+Welsh Open,R,5,3,1
+Masters Qualifier,Q,2,5,0
+Masters Qualifier,Q,4,2,1
